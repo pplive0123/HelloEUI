@@ -23,7 +23,7 @@ class GameEndPanel extends egret.Sprite {
         this.addChild(this.bg);
 
         this.restartBtn = new egret.TextField();
-        this.restartBtn.text = '重新开始游戏';
+        this.restartBtn.text = 'Winner Winner Chiken Dinner';
         this.addChild(this.restartBtn);
         this.restartBtn.x = (480 - this.restartBtn.width) * 0.5;
         this.restartBtn.y = 400;
