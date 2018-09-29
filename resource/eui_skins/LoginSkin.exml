@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.LoginSkin" minHeight="230" minWidth="450" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:TextInput width="185.46" height="38.62" x="132.27" y="36" rotation="359.99" anchorOffsetX="0" anchorOffsetY="0"  prompt="User Name"/>
+	<e:TextInput width="185.46" height="38.62" x="132.27" y="95.71" rotation="359.99" anchorOffsetX="0" anchorOffsetY="0" prompt="Password" displayAsPassword="true"/>
+	<e:Button id="loginBtn" label="Login" x="132.27" y="154" anchorOffsetX="0" width="186" anchorOffsetY="0" height="42"/>
+</e:Skin>
